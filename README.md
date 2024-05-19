@@ -25,8 +25,11 @@ ToDo list is a simple web application to save Your daily tasks in order not to m
 * You can set the status of a task to "done" or "not done," and by clicking the "Set" button, its status will be changed.
 * You can delete tasks.
 * You can see completed and remaining tasks in the next two components.
+  
 ### Project setup
+To install module
 * npm install
-  Compiles and hot-reloads for development
+To run development
 * npm run serve
+  
 
