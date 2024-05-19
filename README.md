@@ -15,10 +15,11 @@ ToDo list is a simple web application to save Your daily tasks in order not to m
 * Vue JS
 * Vuetity
 * Firebase
-* 
+  
 ### Usage
 * Click the navigation menu to open the side navigation.
 * Select which component you want to open.
+* You can add tasks in the add task component
 * In the "View Tasks" component, you can see the tasks.
 * You can mark prioritized tasks as important, and they will be displayed at the top.
 * You can set the status of a task to "done" or "not done," and by clicking the "Set" button, its status will be changed.
