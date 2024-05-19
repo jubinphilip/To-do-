@@ -22,6 +22,7 @@ ToDo list is a simple web application to save Your daily tasks in order not to m
 * You can add tasks in the add task component
 * In the "View Tasks" component, you can see the tasks.
 * You can mark prioritized tasks as important, and they will be displayed at the top.
+* You can edit and delete tasks by clicking corresponding buttons
 * You can set the status of a task to "done" or "not done," and by clicking the "Set" button, its status will be changed.
 * You can delete tasks.
 * You can see completed and remaining tasks in the next two components.
