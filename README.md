@@ -27,9 +27,9 @@ ToDo list is a simple web application to save Your daily tasks in order not to m
 * You can see completed and remaining tasks in the next two components.
   
 ### Project setup
-To install module
+#To install module
 * npm install
-To run development
+#To run development
 * npm run serve
   
 
