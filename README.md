@@ -29,7 +29,7 @@ ToDo list is a simple web application to save Your daily tasks in order not to m
 ### Project setup
 # To install module
 * npm install
-# To run development
+# To run the App
 * npm run serve
   
 
